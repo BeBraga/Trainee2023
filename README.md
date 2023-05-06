@@ -1,1 +1,1 @@
-Esse é um exemplo para a aula do trainee da Struct
+Esse não é um exemplo para a aula do trainee da Struct
